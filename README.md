@@ -1,12 +1,6 @@
 *******************************************************************************
 
-                        CS1131 SECTION 2 FINAL PROJECT
-
-                        AUTHORS: GROUP 11
-                        * LEEN ALMALKI - S20106295
-                        * NOURA ALSOWAIL - S20106132
-                        * RAYANAH ALSBEEY - S20106226
-                        * REEM ALSHARABI -  S20106353
+                        CS1131 FINAL PROJECT
 
 *******************************************************************************
 
