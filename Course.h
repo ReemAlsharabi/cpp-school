@@ -4,7 +4,7 @@
 
 class Course // class name
 {
-  //attributes
+    // data members
     private:
         int id; // the unique identifier of the course
         string subject; // the subject of the course
