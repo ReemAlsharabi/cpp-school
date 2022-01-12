@@ -7,7 +7,7 @@
 //collection class made to statically allocated store object pointers of course elements
 class StatArray
 {
-  // data members
+  //methods
   public:
     void add(Course*); //function that takes a Course pointer as parameter and adds it to the array in its correct place
     void print() ;
@@ -15,7 +15,7 @@ class StatArray
     bool find(int , Course**) ; 
     StatArray(); // default constructor
     ~StatArray(); // destructor
-  //methods
+  // data members
   private:
     Course* elements[MAX_ARR]; // static array declaration
     int size; // stat arr size
