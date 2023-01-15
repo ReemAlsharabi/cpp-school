@@ -1,9 +1,6 @@
-*******************************************************************************
+# School System in C++
 
-                        CS1131 FINAL PROJECT
-
-*******************************************************************************
-
+![alt text](https://github.com/ReemAlsharabi/cpp-school/blob/main/AP.gif)
 
 
 Preamble
